@@ -19,6 +19,6 @@ def clear_temp_folder(temp_folder):
 
 if __name__ == "__main__": 
 	SERVICE_NAME = "preload.service"
-	TEMP_FOLDER = "/home/mark-hill/Desktop/project/Labs/temp"
+	TEMP_FOLDER = "temp"
 	restart_service(SERVICE_NAME) 
 	clear_temp_folder(TEMP_FOLDER)
