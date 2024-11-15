@@ -1,0 +1,2 @@
+I learn how to create the virtual environment, also how to manage directory using the os module
+Last modified on: 2024-11-01 12:00:59
